@@ -3,7 +3,7 @@
   "displayName": "quickswitch-test-source-config",
   "description": "Quickly switch between implementation, test, and configuration files",
   "publisher": "mpietsch",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/ahpex/quickswitch-test-source-config"
